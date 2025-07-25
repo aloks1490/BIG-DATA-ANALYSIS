@@ -1,19 +1,3 @@
-# BIG DATA ANALYISIS-TASK 1
-
-**COMPANY** : CODTECH IT SOLUTIONS
-
-**NAME** :  ALOK RANJAN SINGH
-
-**INTERN ID** : CT08HAC
-
-**DOMAIN** : Data Analytics
-
-**BATCH DURATION** : December 30th, 2024 to January 30th, 2025.
-
-**MENTOR NAME** : NEELA SANTOSH
-
----
-
 # ETL Pipeline using PySpark
 
 
